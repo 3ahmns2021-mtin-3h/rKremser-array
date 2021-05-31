@@ -59,4 +59,14 @@ public class PracticeArrays : MonoBehaviour
         }
         
     }
+
+    public void PrintElements(int[] x)
+    {
+        string tmp = "";
+        for (int i = 0; i < x.Length; i++)
+        {
+            Debug.Log("Element Nummer " + i + " hat den Wert: " + x[i]);
+        }
+
+    }
 }
