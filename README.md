@@ -10,7 +10,10 @@ MacOS, Unity 2020.1.5f1, Visual Studio 2019, no SDKs
 WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./ScreenShots/Hierarchy.png" width="250">
+<img src="./ScreenShots/Script.png" width="250">
+</div>
 
 ### Necessary setup/execution steps: 
 Add the Unity Project in Unity Hub and open it.
