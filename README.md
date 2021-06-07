@@ -7,7 +7,7 @@
 MacOS, Unity 2020.1.5f1, Visual Studio 2019, no SDKs
 
 ### Target platform: 
-WebGL
+WebGL, ref:res 960x600, screen-independent
 
 ### Visuals: 
 <div>
