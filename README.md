@@ -1,28 +1,29 @@
-# Template2D-Unity202015f1
+# rKremser-array
 
 ### Project description: 
-Introduction/Project summary 
+Übung zu Arrays
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+MacOS, Unity 2020.1.5f1, Visual Studio 2019, no SDKs
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
 Screenshots (concept and experience), Video
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+Add the Unity Project in Unity Hub and open it.
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+-
 
 ### Project state: 
-incl. progress in percent
+50%
 
 ### Limitations: 
+-
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by rKremser
